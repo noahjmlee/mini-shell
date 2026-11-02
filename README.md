@@ -1,5 +1,6 @@
 # mini-shell
 Programmed for Ubuntu 25.04 \
+Created in October 2026 \
 Designed for CSDS 338 at Case Western Reserve University
 
 ## Features
