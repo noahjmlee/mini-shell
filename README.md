@@ -1,5 +1,6 @@
 # mini-shell
 Programmed for Ubuntu 25.04
+Design for CSDS 338 at Case Western Reserve University
 
 ## Features
 Run the executable to get a repeated shell prompt with the following features:
